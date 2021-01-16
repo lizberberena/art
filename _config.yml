@@ -18,6 +18,12 @@ logo:               https://lizlorena.com/img/logos/cozymaus-logo-2020-new-trans
 paginate_path: "/blog/pg-:num/"
 paginate: 5
 
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: lizberberena
+    
 # Site Build
 highlighter: rouge
 markdown: kramdown
