@@ -58,9 +58,11 @@
     </div>
 
 </div>
-
+    
+    {% include disqus_comments.html %}
     {% include links.html %}
     {% include footer.html %}
-
+  
+<script id="dsq-count-scr" src="//{{ site.disqus.shortname }}.disqus.com/count.js" async></script>  
 </body>
 </html>
