@@ -1,4 +1,9 @@
 @media (min-width:600px){
+  .flip-box, div#links.portfolio a {
+    width:326px;
+    height:326px;
+  }
+  
 img.art {
 display:none;
 }
