@@ -1,0 +1,29 @@
+---
+layout: post
+title: 2017
+projectDate: 2017
+img: 2017-nagito-komaeda.png
+comments: true
+excerpt: These are all my favorite drawings from 2017.
+---
+
+<p class="caption"><strong>Nagito Komaeda</strong><br>2017</p>
+<p>This is a digital painting I made of Nagito Komaeda, my favorite character from the video game <em>Danganronpa 2</em>.</p>
+
+<hr>
+
+<p><img src="{{ site.url }}/art/img/2017-kokichi-ouma.png" class="img-fluid"></p>
+<p class="caption"><strong>Kokichi Ouma</strong><br>2017</p>
+<p>This is a digital painting I made of Kokichi Ouma, my favorite character from the video game <em>Danganronpa V3</em>.</p>
+
+<hr>
+
+<p><img src="{{ site.url }}/art/img/2017-ddlc.jpg" class="img-fluid"></p>
+<p class="caption"><strong>Doki Doki Literature Club</strong><br>2017</p>
+<p>This is a pencil drawing I made of the characters from the video game <em>Doki Doki Literature Club</em>. The drawings are referenced from official artwork from the game by Satchely.</p>
+
+<hr>
+
+<p><img src="{{ site.url }}/art/img/2017-yandere-girl.png" class="img-fluid"></p>
+<p class="caption"><strong>Yandere Girl</strong><br>2017</p>
+<p>This is a remake of a drawing from 2016 using a different digital painting style I was experimenting with at the time.</p>
