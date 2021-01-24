@@ -1,2 +1,2 @@
 # art
-🖍️ lizlorena.com/art | my best art.
+🖍️ lizlorena.com/art | my favorite art.
