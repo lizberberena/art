@@ -1,7 +1,7 @@
 @media (min-width:1200px){
   .flip-box, div#links.portfolio a {
-    width:326px;
-    height:326px;
+    width:326px!important;
+    height:326px!important;
   }
 }
 
