@@ -1,10 +1,3 @@
-@media (min-width:1200px){
-  .flip-box, div#links.portfolio a {
-    width:326px!important;
-    height:326px!important;
-  }
-}
-
 @media (min-width:600px){
   .flip-box, div#links.portfolio a {
     width:510px;
@@ -16,6 +9,12 @@ display:none;
 }
 }
 
+@media (min-width:1200px){
+  .flip-box, div#links.portfolio a {
+    width:326px!important;
+    height:326px!important;
+  }
+}
 
 @media (max-width:600px){
 img.art {
