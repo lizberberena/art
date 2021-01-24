@@ -14,4 +14,8 @@ display:none;
 img.art {
 display:block;
 }
+  
+div.flip-box-front {
+background:none!important;
+}
 }
