@@ -1,5 +1,5 @@
 @media (min-width:600px){
-  .flip-box, div#links.portfolio a {
+  .flip-box.art, div#links.portfolio a {
     width:510px;
     height:510px;
   }
@@ -10,7 +10,7 @@ display:none;
 }
 
 @media (min-width:1200px){
-  .flip-box, div#links.portfolio a {
+  .flip-box.art, div#links.portfolio a {
     width:326px!important;
     height:326px!important;
   }
@@ -21,7 +21,7 @@ img.art {
 display:block;
 }
   
-div.flip-box-front {
+div.flip-box-front.art {
 background:none!important;
 }
 }
